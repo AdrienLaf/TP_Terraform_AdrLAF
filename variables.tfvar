@@ -1,0 +1,5 @@
+# definition des variables declaré dans le fichier variables.tf
+a_key         = "votre_clé_d'accès_aws"
+s_key         = "votre_clé_secrète_aws"
+instance_type = "votre_type_instance"
+id_ami        = "numero_AMI"
